@@ -6,5 +6,9 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'ng11';
+  title = 'Tour of Heros - Angular 11';
+  name: any = 'PRCV';
+   constructor(){
+     console.log('PRCV')
+   }
 }
