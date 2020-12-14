@@ -1,6 +1,11 @@
-# Ng11
+# Angular 11 - Tours of Heros
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.3.
+# Deployment URL
+[Click Here to access application](https://cvpkr-angular11-tourofheros.web.app/dashboard)
+
+
 
 ## Development server
 
